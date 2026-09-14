@@ -15,7 +15,7 @@ name                     : &name "Blessing Obehi Esabu"
 description              : &description "Computer engineering student and researcher publishing under Tech Sis."
 url                      : "https://tech-sis123.github.io"
 baseurl                  : "/My-academic-pages"
-repository               : "Tech-sis123/mypapers"
+repository               : "Tech-sis123/My-academic-pages"
 
 # Site Author
 author:
