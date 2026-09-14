@@ -14,7 +14,7 @@ title_separator          : "|"
 name                     : &name "Blessing Obehi Esabu"
 description              : &description "Computer engineering student and researcher publishing under Tech Sis."
 url                      : "https://tech-sis123.github.io"
-baseurl                  : "/mypapers"
+baseurl                  : "/My-academic-pages"
 repository               : "Tech-sis123/mypapers"
 
 # Site Author
@@ -27,7 +27,7 @@ author:
   location         : "Lagos, Nigeria"
   employer         : "University of Lagos"
   uri              :
-  email            : "your-email@example.com"
+  email            : "esabublessing7@gmail.com"
 
   # Academic websites
   academia         :
