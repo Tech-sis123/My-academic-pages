@@ -1,6 +1,7 @@
 ---
 title: "Predictive Maintenance System for Residential Generators Using Acoustic Signal Analysis and Remaining Useful Life Estimation: A Python-Based DSP Approach for Smart Home Applications"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-generator-predictive-maintenance
 excerpt: 'A Python-based DSP framework that captures generator acoustic signals, extracts 9 time- and frequency-domain features via FFT, and predicts remaining useful life using linear regression — validated on real MIMII industrial recordings and deployed as a multilingual web app (English, Igbo, Yoruba, Hausa).'
 date: 2026-01-01

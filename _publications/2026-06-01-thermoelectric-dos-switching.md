@@ -1,6 +1,7 @@
 ---
 title: "Adaptive Density-of-States Switching for Performance Optimization in Thermoelectric Energy-Harvesting Systems: A C++ and MATLAB Computational Framework"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-06-01-thermoelectric-dos-switching
 excerpt: 'A validated C++/MATLAB computational framework showing that adaptive switching between DOS-engineered thermoelectric elements outperforms any fixed single element by 1.3–2.0% under volatile operating profiles, with a 5% advantage over the average fixed choice — and that a cost-aware controller is essential to preserve the gain.'
 date: 2026-06-01

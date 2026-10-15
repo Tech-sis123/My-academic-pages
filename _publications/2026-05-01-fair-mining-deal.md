@@ -1,6 +1,7 @@
 ---
 title: "Fair Mining Deal: A Constructor for Fair Russian-African Mining Investment Agreements"
 collection: publications
+category: conferences
 permalink: /publication/2026-05-01-fair-mining-deal
 excerpt: 'A bilateral pre-signing assessment tool that scores Russian-African mineral resource agreements from both investor and host-state perspectives using publicly verifiable data, quantifies deal asymmetry as a renegotiation risk, and was retrospectively validated on the 2005 Liberia–Mittal Steel agreement.'
 date: 2026-05-01
