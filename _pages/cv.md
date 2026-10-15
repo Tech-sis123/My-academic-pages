@@ -72,13 +72,13 @@ Service and Leadership
 
 Skills
 ======
-* **Languages:** Python, Go, C++, MATLAB, VHDL, JavaScript, SQL
+* **Languages:** Python, Go, C++, MATLAB, VHDL, JavaScript, TypeScript, SQL
 * **ML/Data:** XGBoost, Random Forest, Neural Networks, SHAP, scikit-learn, pandas
 * **Hardware:** Vivado (FPGA synthesis), DE10-Lite, MicroPhase A7-Lite, VHDL, cocotb, LibreLane
-* **Backend:** FastAPI, Django REST Framework, PostgreSQL, Redis, Docker, Paystack integration
+* **Backend:** FastAPI, Django REST Framework, Node.js, NestJS, PostgreSQL, Redis, Docker, Paystack integration
 * **Tools:** LaTeX, Git, Linux, Airtable
 
 Memberships
 ======
-* IEEE (and IEEE RAS)
+* IEEE — RAS (Chair, UNILAG chapter), WIE, IES, Computer Society
 * Society of Petroleum Engineers (SPE)

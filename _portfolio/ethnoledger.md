@@ -1,10 +1,10 @@
 ---
 title: "EthnoLedger — USSD-Blockchain for Indigenous Knowledge Preservation"
-excerpt: "Published at DeSci Lagos 2026. A USSD-blockchain hybrid that lets communities in low-connectivity areas contribute to a tamper-resistant, on-chain knowledge archive via basic phone keypad."
+excerpt: "Published at DeSci Lagos 2025. A USSD-blockchain hybrid that lets communities in low-connectivity areas contribute to a tamper-resistant, on-chain knowledge archive via basic phone keypad."
 collection: portfolio
 ---
 
-**Published at DeSci Lagos 2026 (Lead Author)**
+**Published at DeSci Lagos 2025 (Lead Author)**
 
 EthnoLedger is a USSD-blockchain hybrid system for documenting and preserving indigenous knowledge in communities with limited smartphone or internet penetration.
 

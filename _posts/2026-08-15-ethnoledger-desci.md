@@ -9,7 +9,7 @@ tags:
   - indigenous knowledge
 ---
 
-EthnoLedger was published at DeSci Lagos in August. The core idea: USSD-blockchain for indigenous knowledge preservation. I want to explain why USSD matters, because people outside Nigeria usually ask why we didn't just build an app.
+EthnoLedger was published at DeSci Lagos 2025. The core idea: USSD-blockchain for indigenous knowledge preservation. I want to explain why USSD matters, because people outside Nigeria usually ask why we didn't just build an app.
 
 ## The problem with apps
 
