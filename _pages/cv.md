@@ -26,7 +26,7 @@ Experience
 
 * **Software Engineering Tutor — Engineering Career Expo (ECX)** (Sep 2025–Feb 2026)
   * Taught backend engineering to 60+ developers across programme cohort
-  * Topics: RESTful API design, Python (FastAPI, Django REST Framework), API security
+  * Topics: RESTful API design, Node.js, Python (FastAPI, Django REST Framework), API security
 
 * **Lead Software Engineer — Lockedin AI** (Jun 2025–Oct 2025)
   * Led backend team defining API contract and service structure pre-launch
