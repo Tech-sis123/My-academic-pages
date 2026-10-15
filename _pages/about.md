@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Engineering student at the University of Lagos (Class of 2029), maintaining a First Class CGPA of 4.61/5.00. I work across backend engineering, hardware design, and applied research — and I publish under the name **Tech Sis**.
+I'm a Computer Engineering student at the University of Lagos (Class of 2029), and research is the thread that runs through everything I do. I publish under the name **Tech Sis**.
 
-My research spans signal processing, machine learning for social impact, thermoelectric physics, and hardware security. Recent work includes a dual-stage ML framework for predicting female attrition in petroleum engineering pipelines (SPE STSE 2026), an adaptive thermoelectric energy-harvesting system implemented in C++ and MATLAB, and a side-channel resistant FPGA-based signing engine for cryptocurrency hardware wallets implementing secp256k1 ECDSA. I've also worked on natural resource investment fairness with collaborators from Peter the Great St. Petersburg Polytechnic University.
+I care deeply about research that is grounded in real-world systems and social impact — the kind that starts with a question that actually matters and ends with something that can be built, deployed, or changed. My work spans signal processing, machine learning for equity, thermoelectric physics, hardware security, and decentralised systems. I don't pick fields; I follow problems.
 
-On the engineering side, I've interned at MTN Nigeria's IT Division (SIWES, 2026) and previously at Nithub UNILAG. I lead product and engineering at Elite Global AI (EGIT), where I'm building edtech and health platforms including an antenatal care platform piloting at UBTH.
+Recent projects include a dual-stage ML framework (XGBoost, Random Forest, Neural Network) predicting female dropout and career exit in petroleum engineering — trained on 2,081 records and presented at SPE STSE 2026. I've built a C++/MATLAB computational framework for adaptive thermoelectric energy-harvesting showing that switching DOS-engineered elements outperforms any fixed configuration. My hardware work includes an FPGA-based ECDSA signing engine for cryptocurrency wallets, hardened against side-channel attacks via Montgomery ladder scalar multiplication. I've also collaborated with researchers from Peter the Great St. Petersburg Polytechnic University on fairness in Russian-African mining investment agreements, and published EthnoLedger at DeSci Lagos — a USSD-blockchain system for indigenous knowledge preservation designed for low-connectivity communities.
 
-Beyond technical work, I founded Unilag Female Engineers '29 and chair the IEEE RAS UNILAG student chapter — I care about growing the pipeline of women in engineering in Nigeria and across Africa.
+I've interned at MTN Nigeria's IT Division (SIWES, 2026) and at Nithub UNILAG. I lead product and engineering at Elite Global AI (EGIT), where I'm building an antenatal care platform currently piloting at UBTH, among other edtech and health products.
+
+I founded Unilag Female Engineers '29 and chair the IEEE RAS UNILAG student chapter. I run *Becoming Her*, a webinar series under my IDENA brand that's reached 90+ engineers across Nigeria. I believe that who gets to do research matters — and I build communities that change the answer to that question.
 
 If you want to talk research, engineering, or opportunities — reach me at [esabublessing7@gmail.com](mailto:esabublessing7@gmail.com).
