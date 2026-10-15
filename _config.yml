@@ -63,7 +63,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "tech-sis1813"
   mastodon         :
   medium           :
   pinterest        :
@@ -71,7 +71,7 @@ author:
   steam            :
   telegram         :
   tumblr           :
-  twitter          :
+  twitter          : "techsis_1813"
   vine             :
   weibo            :
   wikipedia        :
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "techsis_1813"
 facebook:
   username               :
   app_id                 :
