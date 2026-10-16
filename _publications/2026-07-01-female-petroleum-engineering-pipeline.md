@@ -6,7 +6,7 @@ permalink: /publication/2026-07-01-female-petroleum-engineering-pipeline
 excerpt: 'A dual-stage XGBoost/Random Forest/Neural Network framework trained on 2,081 records from Nigerian petroleum engineering programmes and industry partners to predict female dropout and career exit, with SHAP-based explanations identifying the key risk factors at each stage.'
 date: 2026-07-01
 venue: 'Society of Petroleum Engineers — STSE 2026 (Paper No. SPE-STSE-2026-050)'
-paperurl: ''
+paperurl: '/files/available-upon-request.pdf'
 citation: 'Esabu, B. O. (2026). Predicting and Preventing Attrition in the Female Petroleum Engineering Pipeline: A Machine Learning Approach to Addressing Dropout and Career Exit in Africa. SPE-STSE-2026-050, Society of Petroleum Engineers.'
 ---
 

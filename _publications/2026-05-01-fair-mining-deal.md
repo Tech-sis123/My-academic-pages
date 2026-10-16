@@ -6,7 +6,7 @@ permalink: /publication/2026-05-01-fair-mining-deal
 excerpt: 'A bilateral pre-signing assessment tool that scores Russian-African mineral resource agreements from both investor and host-state perspectives using publicly verifiable data, quantifies deal asymmetry as a renegotiation risk, and was retrospectively validated on the 2005 Liberia–Mittal Steel agreement.'
 date: 2026-05-01
 venue: 'Russian-African Forum of Young Scientists 2026 (under UNESCO auspices), Empress Catherine II Saint Petersburg Mining University'
-paperurl: ''
+paperurl: '/files/available-upon-request.pdf'
 citation: 'Afanasieva, S. A., Antonyuk, P. S., & Esabu, B. (2026). Fair Mining Deal: A Constructor of Balanced Russian–African Investment Agreements in Subsoil Use. Russian-African Forum of Young Scientists: "Future Engineers of the World – The Foundation of Sustainable Development," Saint Petersburg Mining University (under UNESCO auspices).'
 ---
 
