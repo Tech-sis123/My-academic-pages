@@ -6,7 +6,7 @@ permalink: /publication/2026-09-01-fpga-hardware-wallet
 excerpt: 'An FPGA-based signing engine for cryptocurrency hardware wallets, implementing secp256k1 ECDSA with side-channel resistance through Montgomery ladder scalar multiplication — synthesised on the MicroPhase A7-Lite in Vivado and demonstrated on a public testnet.'
 date: 2026-09-01
 venue: 'Department of Electrical and Electronics Engineering, University of Lagos'
-paperurl: '/files/fpga-hardware-wallet.pdf'
+paperurl: '/My-academic-pages/files/fpga-hardware-wallet.pdf'
 citation: 'Esabu, B. O. (2026). Design and Implementation of a Side-Channel Resistant FPGA-Based Signing Engine For Cryptocurrency Hardware Wallets. Department of Electrical and Electronics Engineering, University of Lagos.'
 ---
 

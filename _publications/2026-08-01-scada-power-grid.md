@@ -6,7 +6,7 @@ permalink: /publication/2026-08-01-scada-power-grid
 excerpt: 'A cost-benefit and technical architecture study proposing an open-source SCADA framework (Rapid SCADA, OpenMUC, OpenPDC) conforming to IEC 61850 and IEEE C37.118 for Nigeria's national grid, projecting 53% capital cost reduction ($85M vs $180M) and SAIDI improvement from 4,500+ hours/year to under 1,200 hours/year.'
 date: 2026-08-01
 venue: 'Department of Electrical and Electronics Engineering, University of Lagos'
-paperurl: '/files/scada-power-grid.pdf'
+paperurl: '/My-academic-pages/files/scada-power-grid.pdf'
 citation: 'Esabu, B. O. (2026). Open-Source SCADA for National Grid Reliability: A Cost-Effective Supervisory Control Framework for Nigeria''s Power Infrastructure. Department of Electrical and Electronics Engineering, University of Lagos.'
 ---
 

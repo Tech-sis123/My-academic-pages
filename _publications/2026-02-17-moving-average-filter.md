@@ -6,7 +6,7 @@ permalink: /publication/2026-02-17-moving-average-filter
 excerpt: 'A VHDL FSM implementation of the 3-point moving average FIR filter H(z) = (1/3)(1+z⁻¹+z⁻²) on the Intel MAX 10 FPGA, consuming 47 logic elements and zero DSP blocks, operating at 150 MHz — with functional simulation in ModelSim and hardware verification on the Altera DE10-Lite board.'
 date: 2026-02-17
 venue: 'EEG 213: Signals and Systems — Department of Electrical and Electronics Engineering, University of Lagos'
-paperurl: '/files/moving-average-filter.pdf'
+paperurl: '/My-academic-pages/files/moving-average-filter.pdf'
 citation: 'Esabu, B. O. (2026). Design and FPGA Implementation of a 3-Point Moving Average FIR Filter Using VHDL Finite State Machine Architecture on the Altera DE10-Lite Platform. EEG 213 Laboratory Report, University of Lagos.'
 ---
 
