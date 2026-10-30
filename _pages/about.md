@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Engineering student at the University of Lagos (Class of 2029). I'm an applied researcher — I build and publish ML systems and computational infrastructure for populations that most research overlooks. I publish under the name **Tech Sis**.
+I'm a Computer Engineering student at the University of Lagos. I'm an applied researcher — I build and publish ML systems and computational infrastructure for populations that most research overlooks. I publish under the name **Tech Sis**.
 
 My work follows a consistent question: how does computing need to change when you design it for African contexts, low-resource environments, and structurally underrepresented populations?
 
